@@ -1,0 +1,4 @@
+baseURL = 'https://fu2bol.com/'
+languageCode = 'en-us'
+title = 'fu2bol'
+theme = 'PaperMod'
