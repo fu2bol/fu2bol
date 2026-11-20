@@ -1,4 +1,4 @@
-baseURL = 'https://fu2bol.com/'
+baseURL = 'https://fu2bol.pages.dev/'
 languageCode = 'en-us'
 title = 'fu2bol'
 theme = 'PaperMod'
