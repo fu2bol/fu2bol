@@ -11,3 +11,8 @@ Some images revisit specific historical moments. Others explore atmospheres, pla
 > *Unless otherwise noted, all artworks displayed in The Art Room are AI-generated visual interpretations created by the author for fu2bol. These works are presented as artistic representations rather than historical photographs. Artwork © fu2bol.*
 
 ---
+## Cafu's Attempt (1992)
+
+![Cafu's Attempt](/images/cafu-attempt-1992.png)
+
+*An artistic reinterpretation inspired by Cafu's acrobatic effort for São Paulo against Palmeiras in 1992.*
