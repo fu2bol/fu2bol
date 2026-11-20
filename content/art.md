@@ -2,7 +2,6 @@
 title: "The Art Room"
 ---
 
-## The Art Room
 
 A space for visual interpretations, imagined moments, and football memories inspired by the eras explored throughout fu2bol.
 
