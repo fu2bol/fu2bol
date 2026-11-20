@@ -41,3 +41,11 @@ Every era leaves its fingerprints on football.
 ---
 
 > *A new historical timeline unlocks every single month... journey through the eras, one tactical epoch at a time.*
+
+---
+
+## Beyond the Archive
+
+### [The Art Room](/art/)
+
+Visual interpretations, imagined moments, and football memories inspired by the eras explored throughout fu2bol.
